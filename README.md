@@ -14,7 +14,7 @@ util class - Math
 ### Screen-shot
 
 ![Build process with Ant	](https://github.com/vanhiepfptu/math-util-ant-se1613/blob/master/screenshot/build-process-with-ant.png)
-![DDT source code using JUnit]	(https://github.com/vanhiepfptu/math-util-ant-se1613/blob/master/screenshot/unit-test-with-ddt.png)
+![DDT source code using JUnit](https://github.com/vanhiepfptu/math-util-ant-se1613/blob/master/screenshot/unit-test-with-ddt.png)
 
 <img alt="" src="" >
 
